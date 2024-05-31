@@ -16,26 +16,25 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/code-2434271_1280.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "this simple code image";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Experienced data scientist proficient in statistical analysis, machine learning, and data visualization. Skilled in extracting insights from large datasets to drive informed decision-making and solve complex problems. Proficient programmer with expertise in multiple languages, including Python, Java, and SQL. Experienced in developing software applications, websites, and digital solutions.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Web programmer",
+  "data scientist",
+  "programmer",
+  "problme solver",
   "Graphic design",
 ];
 
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Strong problem-solving abilities and a keen eye for detail. Proven track record of delivering high-quality projects on time and within budget. Effective communicator and team player, able to collaborate across disciplines to achieve common goals. Continuously learning and adapting to new technologies and methodologies in both data science and programming. Passionate about leveraging data-driven approaches to drive business success and innovation. Seeking opportunities to contribute expertise in both data science and programming to impactful projects and teams.";
 
 const About = () => {
   return (
